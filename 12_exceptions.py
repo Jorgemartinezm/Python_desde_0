@@ -41,7 +41,7 @@ finally: # Opcional
     # Se ejecuta siempre
     print("La ejecución continua")
 
-# ! 
+# ! Errores específicos
 
 try:
     print("Hola")
